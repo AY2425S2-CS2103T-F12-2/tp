@@ -9,7 +9,7 @@
         "project-team": "Project team",
         "arulanandam-james-beryl": "Arulanandam James Beryl",
         "glenn-liew-zi-yi": "Glenn Liew Zi Yi",
-        "johnny-doe": "Johnny Doe",
+        "junjie": "Junjie",
         "jean-doe": "Jean Doe",
         "wei-yan-min-oo": "Wei Yan Min Oo"
       },
@@ -147,7 +147,15 @@
     },
     {
       "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "title": "About Us",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/junjie.md",
+      "title": "About Us",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
