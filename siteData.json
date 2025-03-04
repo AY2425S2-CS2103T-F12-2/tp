@@ -3,8 +3,8 @@
   "pages": [
     {
       "src": "AboutUs.md",
+      "title": "About Us",
       "headings": {
-        "layout-default-md-title-and-quot-about-us-and-quot": "layout:default.md\ntitle:&quot;About Us&quot;",
         "about-us": "About Us",
         "project-team": "Project team",
         "geng-yudong": "Geng Yudong",
