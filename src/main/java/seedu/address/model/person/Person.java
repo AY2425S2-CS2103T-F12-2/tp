@@ -24,12 +24,14 @@ public class Person {
 
     // Data fields
     private final Address address;
+
+    private final Remark remark;
     private final Set<Tag> tags = new HashSet<>();
 
     /**
      * Every field must be present and not null.
      */
-    public Person(Name name, Phone phone, Email email, Role role, Address address, Set<Tag> tags) {
+    public Person(Name name, Phone phone, Email email, Role role, Address address, Remark remark, Set<Tag> tags) {
         requireAllNonNull(name, phone, email, role, address, tags);
 
         boolean hasRequiredTag = tags.stream()
@@ -44,6 +46,7 @@ public class Person {
         this.email = email;
         this.role = role;
         this.address = address;
+        this.remark = remark;
         this.tags.addAll(tags);
     }
 
@@ -65,6 +68,10 @@ public class Person {
 
     public Address getAddress() {
         return address;
+    }
+
+    public Remark getRemark() {
+        return remark;
     }
 
     /**
