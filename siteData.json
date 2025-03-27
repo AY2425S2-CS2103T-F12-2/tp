@@ -121,6 +121,7 @@
         "editing-a-wedding-event-editwedding": "Editing a Wedding Event : editWedding",
         "deleting-a-wedding-event-deletewedding": "Deleting a Wedding Event : deleteWedding",
         "listing-all-wedding-events-listwedding": "Listing all Wedding Events : listWedding",
+        "listing-all-wedding-events-sorted-by-earliest-date-listweddingsorted": "Listing all Wedding Events sorted by earliest date : listWeddingSorted",
         "adding-a-wedding-task-addtask": "Adding a Wedding Task : addTask",
         "listing-all-wedding-tasks-listtask": "Listing all Wedding Tasks : listTask",
         "marking-a-wedding-task-mark": "Marking a Wedding Task : mark",
