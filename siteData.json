@@ -72,7 +72,12 @@
         "saving-data": "Saving data",
         "appendix-effort": "Appendix: Effort",
         "project-scope-and-difficulty": "Project Scope and Difficulty",
-        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
+        "1-integrate-task-deadlines": "1. Integrate Task Deadlines",
+        "2-advanced-task-filtering-and-sorting-by-deadline": "2. Advanced Task Filtering and Sorting by Deadline",
+        "3-support-for-non-latin-characters-in-names": "3. Support for Non-Latin Characters in Names",
+        "4-expanded-search-capabilities": "4. Expanded Search Capabilities",
+        "5-batch-tag-untag-contacts": "5. Batch Tag/Untag Contacts"
       },
       "headingKeywords": {}
     },
