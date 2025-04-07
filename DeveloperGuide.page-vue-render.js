@@ -815,6 +815,6 @@ with(this){return _c('h3',{attrs:{"id":"5-batch-tag-untag-contacts"}},[_v("5. Ba
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Feature Gap")]),_v(": Currently, users must tag or untag contacts to weddings one by one. For large weddings with many vendors and clients, this process is time-consuming and inefficient.")]),_v(" "),_c('li',[_c('strong',[_v("Proposed Fix")]),_v(": Implement a batch tagging system that allows users to select multiple contacts and tag or untag them to a wedding in a single command.")]),_v(" "),_c('li',[_c('strong',[_v("Expected Outcome")]),_v(": Wedding planners will experience a significant reduction in administrative overhead, leading to a more efficient workflow when managing contacts for large events.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 3:13:16 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 3:14:25 GMT+8]")])])])}
 }];
   
