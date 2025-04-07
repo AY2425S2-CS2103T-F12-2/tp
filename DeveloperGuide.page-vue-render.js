@@ -824,6 +824,6 @@ with(this){return _c('h3',{attrs:{"id":"6-better-wedding-id-handling-after-delet
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Feature Gap")]),_v(": When a wedding is deleted, its ID is not reused, which results in non-sequential wedding IDs (e.g., W1, W3, W4). This inconsistency can confuse users and wastes available identifiers.")]),_v(" "),_c('li',[_c('strong',[_v("Proposed Fix")]),_v(": Implement proper wedding ID management that either reuses IDs from deleted weddings for new entries, or provides an optional command to renumber/reindex all wedding IDs sequentially.\\")]),_v(" "),_c('li',[_c('strong',[_v("Expected Outcome")]),_v(": Wedding IDs will be managed more effectively, eliminating gaps and providing users with a clear and organized identifier sequence for all weddings.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 3:24:24 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.6.0")]),_v(", generated on Tue, 8 Apr 2025, 3:32:54 GMT+8]")])])])}
 }];
   
